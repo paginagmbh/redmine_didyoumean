@@ -97,9 +97,6 @@ function displayItem(item) {
                   + item_subject
                   + '</a> ('
                   + item_status
-                  + ' ' 
-                  + dym.label_in
-                  + ' ' + project_name
                   + ')</li>';
 
   return item_html;
